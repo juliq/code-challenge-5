@@ -1,0 +1,23 @@
+{
+  "name": "code-challenge-5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js",
+  },
+  "author": "juliq",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.4",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "pg": "^7.4.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "code-challenge-5"
+  },
+  "description": ""
+}
